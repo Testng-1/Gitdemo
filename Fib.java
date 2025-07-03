@@ -12,7 +12,7 @@ public class Fib {
 		    b=c;
 		    System.out.println(c);
 		System.out.println(c);
-
+      git push
 
 		}
 		
