@@ -11,6 +11,7 @@ public class Fib {
 			a=b;
 		    b=c;
 		    System.out.println(c);
+		System.out.println(c);
 
 
 		}
