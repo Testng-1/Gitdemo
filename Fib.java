@@ -13,16 +13,6 @@ public class Fib {
 		    System.out.println(c);
 
 
-
-
-
-
-
-
-
-
-
-
 		}
 		
 	}
